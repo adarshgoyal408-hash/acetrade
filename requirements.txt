@@ -25,9 +25,6 @@ pyotp>=2.9.0
 # Time & Date
 pytz>=2023.3
 
-# Database
-sqlite3  # Built-in with Python
-
 # PDF Generation (for research reports)
 reportlab>=4.0.7
 pypdf2>=3.0.1
